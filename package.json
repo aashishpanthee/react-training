@@ -1,0 +1,27 @@
+{
+  "name": "react-train",
+  "version": "1.0.0",
+  "description": "This is react tutorial",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashishpanthee/react-training.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "html"
+  ],
+  "author": "Aashish Panthee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashishpanthee/react-training/issues"
+  },
+  "homepage": "https://github.com/aashishpanthee/react-training#readme",
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  }
+}
